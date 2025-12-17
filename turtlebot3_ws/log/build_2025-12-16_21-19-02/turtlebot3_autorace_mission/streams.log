@@ -1,0 +1,19 @@
+[3.509s] Invoking command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission/build --no-deps symlink_data
+[4.156s] running develop
+[4.596s] running egg_info
+[4.596s] writing turtlebot3_autorace_mission.egg-info/PKG-INFO
+[4.597s] writing dependency_links to turtlebot3_autorace_mission.egg-info/dependency_links.txt
+[4.597s] writing entry points to turtlebot3_autorace_mission.egg-info/entry_points.txt
+[4.598s] writing requirements to turtlebot3_autorace_mission.egg-info/requires.txt
+[4.598s] writing top-level names to turtlebot3_autorace_mission.egg-info/top_level.txt
+[4.602s] reading manifest file 'turtlebot3_autorace_mission.egg-info/SOURCES.txt'
+[4.603s] writing manifest file 'turtlebot3_autorace_mission.egg-info/SOURCES.txt'
+[4.607s] running build_ext
+[4.610s] Creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/python3.10/site-packages/turtlebot3-autorace-mission.egg-link (link to .)
+[4.611s] Installing avoid_construction script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/turtlebot3_autorace_mission
+[4.611s] Installing control_lane script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/turtlebot3_autorace_mission
+[4.611s] Installing mission_tunnel script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/turtlebot3_autorace_mission
+[4.611s] 
+[4.611s] Installed /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission
+[4.611s] running symlink_data
+[4.663s] Invoked command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission' returned '0': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_mission/build --no-deps symlink_data

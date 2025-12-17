@@ -1,0 +1,32 @@
+[1.196s] Invoking command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data
+[1.615s] running develop
+[1.760s] running egg_info
+[1.760s] creating turtlebot3_autorace_camera.egg-info
+[1.760s] writing turtlebot3_autorace_camera.egg-info/PKG-INFO
+[1.760s] writing dependency_links to turtlebot3_autorace_camera.egg-info/dependency_links.txt
+[1.760s] writing entry points to turtlebot3_autorace_camera.egg-info/entry_points.txt
+[1.760s] writing requirements to turtlebot3_autorace_camera.egg-info/requires.txt
+[1.760s] writing top-level names to turtlebot3_autorace_camera.egg-info/top_level.txt
+[1.760s] writing manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[1.762s] reading manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[1.762s] writing manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[1.763s] running build_ext
+[1.763s] Creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages/turtlebot3-autorace-camera.egg-link (link to .)
+[1.764s] Installing image_compensation script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[1.764s] Installing image_projection script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[1.764s] 
+[1.764s] Installed /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera
+[1.764s] running symlink_data
+[1.764s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index
+[1.764s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index
+[1.765s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index/packages
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/resource/turtlebot3_autorace_camera -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/ament_index/resource_index/packages
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/package.xml -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera
+[1.765s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/launch/intrinsic_camera_calibration.launch.py -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/launch/extrinsic_camera_calibration.launch.py -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/launch
+[1.765s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration
+[1.765s] creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/calibration/extrinsic_calibration/projection.yaml -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[1.765s] symbolically linking /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/calibration/extrinsic_calibration/compensation.yaml -> /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/share/turtlebot3_autorace_camera/calibration/extrinsic_calibration
+[1.839s] Invoked command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera' returned '0': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data

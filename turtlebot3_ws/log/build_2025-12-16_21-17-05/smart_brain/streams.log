@@ -1,0 +1,18 @@
+[2.487s] Invoking command in '/home/kaize/turtlebot3_ws/build/smart_brain': CMAKE_PREFIX_PATH=/home/kaize/turtlebot3_ws/install/turtlebot3_gazebo:/home/kaize/turtlebot3_ws/install/turtlebot3:/home/kaize/turtlebot3_ws/install/turtlebot3_simulations:/home/kaize/turtlebot3_ws/install/turtlebot3_bringup:/home/kaize/turtlebot3_ws/install/turtlebot3_node:/home/kaize/turtlebot3_ws/install/turtlebot3_navigation2:/home/kaize/turtlebot3_ws/install/turtlebot3_fake_node:/home/kaize/turtlebot3_ws/install/turtlebot3_msgs:/home/kaize/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/kaize/turtlebot3_ws/install/turtlebot3_description:/home/kaize/turtlebot3_ws/install/turtlebot3_cartographer:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace:/home/kaize/turtlebot3_ws/install/dynamixel_sdk_examples:/home/kaize/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/kaize/turtlebot3_ws/install/dynamixel_sdk PYTHONPATH=/home/kaize/turtlebot3_ws/build/smart_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/smart_brain/build --no-deps symlink_data
+[2.895s] running develop
+[3.153s] running egg_info
+[3.153s] writing smart_brain.egg-info/PKG-INFO
+[3.154s] writing dependency_links to smart_brain.egg-info/dependency_links.txt
+[3.154s] writing entry points to smart_brain.egg-info/entry_points.txt
+[3.154s] writing requirements to smart_brain.egg-info/requires.txt
+[3.154s] writing top-level names to smart_brain.egg-info/top_level.txt
+[3.157s] reading manifest file 'smart_brain.egg-info/SOURCES.txt'
+[3.158s] writing manifest file 'smart_brain.egg-info/SOURCES.txt'
+[3.160s] running build_ext
+[3.160s] Creating /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart-brain.egg-link (link to .)
+[3.161s] Installing integrated_navigator script to /home/kaize/turtlebot3_ws/install/smart_brain/lib/smart_brain
+[3.162s] Installing send_goal script to /home/kaize/turtlebot3_ws/install/smart_brain/lib/smart_brain
+[3.162s] 
+[3.162s] Installed /home/kaize/turtlebot3_ws/build/smart_brain
+[3.162s] running symlink_data
+[3.213s] Invoked command in '/home/kaize/turtlebot3_ws/build/smart_brain' returned '0': CMAKE_PREFIX_PATH=/home/kaize/turtlebot3_ws/install/turtlebot3_gazebo:/home/kaize/turtlebot3_ws/install/turtlebot3:/home/kaize/turtlebot3_ws/install/turtlebot3_simulations:/home/kaize/turtlebot3_ws/install/turtlebot3_bringup:/home/kaize/turtlebot3_ws/install/turtlebot3_node:/home/kaize/turtlebot3_ws/install/turtlebot3_navigation2:/home/kaize/turtlebot3_ws/install/turtlebot3_fake_node:/home/kaize/turtlebot3_ws/install/turtlebot3_msgs:/home/kaize/turtlebot3_ws/install/turtlebot3_manipulation_gazebo:/home/kaize/turtlebot3_ws/install/turtlebot3_description:/home/kaize/turtlebot3_ws/install/turtlebot3_cartographer:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace:/home/kaize/turtlebot3_ws/install/dynamixel_sdk_examples:/home/kaize/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/kaize/turtlebot3_ws/install/dynamixel_sdk PYTHONPATH=/home/kaize/turtlebot3_ws/build/smart_brain/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/smart_brain/build --no-deps symlink_data

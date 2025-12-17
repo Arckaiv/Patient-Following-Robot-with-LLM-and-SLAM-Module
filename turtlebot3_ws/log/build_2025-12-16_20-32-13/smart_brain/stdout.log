@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/smart_brain/smart_brain.egg-info
+writing ../../build/smart_brain/smart_brain.egg-info/PKG-INFO
+writing dependency_links to ../../build/smart_brain/smart_brain.egg-info/dependency_links.txt
+writing entry points to ../../build/smart_brain/smart_brain.egg-info/entry_points.txt
+writing requirements to ../../build/smart_brain/smart_brain.egg-info/requires.txt
+writing top-level names to ../../build/smart_brain/smart_brain.egg-info/top_level.txt
+writing manifest file '../../build/smart_brain/smart_brain.egg-info/SOURCES.txt'
+reading manifest file '../../build/smart_brain/smart_brain.egg-info/SOURCES.txt'
+writing manifest file '../../build/smart_brain/smart_brain.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kaize/turtlebot3_ws/build/smart_brain/build
+creating /home/kaize/turtlebot3_ws/build/smart_brain/build/lib
+creating /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain
+copying smart_brain/integrated_navigator.py -> /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain
+copying smart_brain/__init__.py -> /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain
+copying smart_brain/send_goal.py -> /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain
+running install
+running install_lib
+creating /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain
+copying /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain/integrated_navigator.py -> /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain
+copying /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain/__init__.py -> /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain
+copying /home/kaize/turtlebot3_ws/build/smart_brain/build/lib/smart_brain/send_goal.py -> /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain
+byte-compiling /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain/integrated_navigator.py to integrated_navigator.cpython-310.pyc
+byte-compiling /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain/send_goal.py to send_goal.cpython-310.pyc
+running install_data
+creating /home/kaize/turtlebot3_ws/install/smart_brain/share/ament_index
+creating /home/kaize/turtlebot3_ws/install/smart_brain/share/ament_index/resource_index
+creating /home/kaize/turtlebot3_ws/install/smart_brain/share/ament_index/resource_index/packages
+copying resource/smart_brain -> /home/kaize/turtlebot3_ws/install/smart_brain/share/ament_index/resource_index/packages
+copying package.xml -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain
+creating /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/launch
+copying launch/burger_cam_nav2.launch.py -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/launch
+creating /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/config
+copying config/map.yaml -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/config
+copying config/burger_cam.yaml -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/config
+copying config/map_locations.yaml -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/config
+copying config/map.pgm -> /home/kaize/turtlebot3_ws/install/smart_brain/share/smart_brain/config
+running install_egg_info
+Copying ../../build/smart_brain/smart_brain.egg-info to /home/kaize/turtlebot3_ws/install/smart_brain/lib/python3.10/site-packages/smart_brain-0.0.0-py3.10.egg-info
+running install_scripts
+Installing integrated_navigator script to /home/kaize/turtlebot3_ws/install/smart_brain/lib/smart_brain
+Installing send_goal script to /home/kaize/turtlebot3_ws/install/smart_brain/lib/smart_brain
+writing list of installed files to '/home/kaize/turtlebot3_ws/build/smart_brain/install.log'

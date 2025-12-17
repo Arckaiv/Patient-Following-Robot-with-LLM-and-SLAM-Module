@@ -1,0 +1,33 @@
+[1.652s] Invoking command in '/home/kaize/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kaize/turtlebot3_ws/install/yolo_pkg:/home/kaize/turtlebot3_ws/install/turtlebot3_teleop:/home/kaize/turtlebot3_ws/install/turtlebot3_example:/home/kaize/turtlebot3_ws/install/smart_brain:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/kaize/turtlebot3_ws/build/turtlebot3_navigation2 -- -j12 -l12
+[2.090s] Invoked command in '/home/kaize/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kaize/turtlebot3_ws/install/yolo_pkg:/home/kaize/turtlebot3_ws/install/turtlebot3_teleop:/home/kaize/turtlebot3_ws/install/turtlebot3_example:/home/kaize/turtlebot3_ws/install/smart_brain:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/kaize/turtlebot3_ws/build/turtlebot3_navigation2 -- -j12 -l12
+[2.090s] Invoking command in '/home/kaize/turtlebot3_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kaize/turtlebot3_ws/install/yolo_pkg:/home/kaize/turtlebot3_ws/install/turtlebot3_teleop:/home/kaize/turtlebot3_ws/install/turtlebot3_example:/home/kaize/turtlebot3_ws/install/smart_brain:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/kaize/turtlebot3_ws/build/turtlebot3_navigation2
+[2.386s] -- Install configuration: ""
+[2.386s] -- Execute custom install script
+[2.386s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[2.386s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[2.386s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[2.386s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[2.386s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger_cam.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/burger_cam.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/humble/waffle_pi.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[2.387s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[2.389s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[2.389s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[2.390s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[2.390s] -- Symlinking: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[2.391s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[2.391s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[2.391s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[2.391s] -- Up-to-date symlink: /home/kaize/turtlebot3_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[2.398s] Invoked command in '/home/kaize/turtlebot3_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kaize/turtlebot3_ws/install/yolo_pkg:/home/kaize/turtlebot3_ws/install/turtlebot3_teleop:/home/kaize/turtlebot3_ws/install/turtlebot3_example:/home/kaize/turtlebot3_ws/install/smart_brain:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/kaize/turtlebot3_ws/build/turtlebot3_navigation2

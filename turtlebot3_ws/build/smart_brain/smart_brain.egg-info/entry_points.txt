@@ -1,0 +1,4 @@
+[console_scripts]
+integrated_navigator = smart_brain.integrated_navigator:main
+send_goal = smart_brain.send_goal:main
+

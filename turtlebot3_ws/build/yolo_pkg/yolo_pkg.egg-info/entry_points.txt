@@ -1,0 +1,4 @@
+[console_scripts]
+pursuit_controller = yolo_pkg.pursuit_controller:main
+yolo_detector = yolo_pkg.yolo_detector:main
+

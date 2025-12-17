@@ -1,0 +1,18 @@
+[3.382s] Invoking command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data
+[4.230s] running develop
+[4.652s] running egg_info
+[4.652s] writing turtlebot3_autorace_camera.egg-info/PKG-INFO
+[4.652s] writing dependency_links to turtlebot3_autorace_camera.egg-info/dependency_links.txt
+[4.652s] writing entry points to turtlebot3_autorace_camera.egg-info/entry_points.txt
+[4.653s] writing requirements to turtlebot3_autorace_camera.egg-info/requires.txt
+[4.653s] writing top-level names to turtlebot3_autorace_camera.egg-info/top_level.txt
+[4.655s] reading manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[4.657s] writing manifest file 'turtlebot3_autorace_camera.egg-info/SOURCES.txt'
+[4.662s] running build_ext
+[4.662s] Creating /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages/turtlebot3-autorace-camera.egg-link (link to .)
+[4.663s] Installing image_compensation script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[4.664s] Installing image_projection script to /home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/turtlebot3_autorace_camera
+[4.664s] 
+[4.664s] Installed /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera
+[4.665s] running symlink_data
+[4.781s] Invoked command in '/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera' returned '0': PYTHONPATH=/home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaize/turtlebot3_ws/install/turtlebot3_autorace_camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaize/turtlebot3_ws/build/turtlebot3_autorace_camera/build --no-deps symlink_data
