@@ -1,4 +1,4 @@
-# Patient Following Robot
+# Patient Following Robot with LLM & SLAM Module Add-ons
 This project demonstrates an intelligent system for a TurtleBot3 (burger_cam) robot operating within a simulated hospital environment. The system uses a Local Large Language Model (LLM) to translate complex user intent into concrete navigation goals for the ROS 2 Nav2 stack, offering both autonomous guidance and human-following capabilities.
 The speech-to-text process is skipped to avoid unecessary complications in the voice-command system, instead a text-based system is used in the terminal to simulate the voice-command system. This is suffice to test the LLM's capabilites to detect the intent of a string of text.
 
