@@ -49,6 +49,7 @@ The speech-to-text process is skipped to avoid unecessary complications in the v
 
 **11 Verify the camera feed**\
 `ros2 launch turtlebot3_gazebo turtlebot3_autorace_2020.launch.py`
+`rqt` (2nd Terminal)
 
 ↑ Source: https://emanual.robotis.com/docs/en/platform/turtlebot3/autonomous_driving/#autonomous-driving
 
@@ -66,19 +67,20 @@ The speech-to-text process is skipped to avoid unecessary complications in the v
 **4. Check if the model is available**\
 `ollama list`
 
+**5. Return to workspace root, build and source**\
+`cd ~/turtlebot3_ws && colcon build --symlink-install`
+`source install/setup.bash`
+
 
 ## Instructions
-**CHANGE DIRECTORY TO TURTLEBOT3_WS (1ST TERMINAL)**\
-`cd turtlebot3_ws`
-
-**LAUNCH HOSPITAL WORLD with BURGER_CAM IN GAZEBO (2ND TERMINAL)**\
+**LAUNCH HOSPITAL WORLD with BURGER_CAM IN GAZEBO (1ST TERMINAL)**\
 `ros2 launch turtlebot3_gazebo hosp_world.launch.py use_sim_time:=True`
 
-**RUN NAV2 STACK**\
+**RUN NAV2 STACK (2ND TERMINAL)**\
 `ros2 launch smart_brain burger_cam_nav2.launch.py`
 
 **RUN RQT TO VIEW YOLO_DETECTIONS (3RD TERMINAL)**\
 `rqt`
 
-**RUN THE CLI TO START INTENT IDENTIFICATION**\
+**RUN THE CLI TO START INTENT IDENTIFICATION (4TH TERMINAL)**\
 `ros2 run smart_brain integrated_navigator`
