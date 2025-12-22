@@ -15,7 +15,7 @@ The speech-to-text process is skipped to avoid unecessary complications in the v
 `https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/`
 
 
-### Computer Vision Component (Ultralytics and related depenencies)
+### Computer Vision Component (Ultralytics and related dependencies)
 
 **1. Navigate to your workspace**\
 `cd ~/turtlebot3_ws`
