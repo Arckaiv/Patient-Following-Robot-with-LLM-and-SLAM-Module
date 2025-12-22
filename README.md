@@ -10,6 +10,11 @@ The speech-to-text process is skipped to avoid unecessary complications in the v
 
 ## Requirements:
 
+**ROS 2 Humble Hawksbill Turtlebot3 on Ubuntu 22.04.5 LTS (Jammy Jellyfish)**\
+**Follow the instructions to install the required ROS 2 and Turtlebot3 packages and dependencies**\
+`https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/`
+
+
 ### Computer Vision Component (Ultralytics and related depenencies)
 
 **1. Navigate to your workspace**\
